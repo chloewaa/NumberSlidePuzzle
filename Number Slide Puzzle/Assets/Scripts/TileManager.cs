@@ -1,3 +1,5 @@
+//Chloe Walsh
+//Tile Manager
 using UnityEngine;
 
 public class TileManager : MonoBehaviour
